@@ -8,6 +8,6 @@ pip install -r requirements.txt
 python main.py
 
 Press 'q' to exit.
-=======
+========
 # face-mesh-keyboard-keys-control
 Control keyboard using nose movement with OpenCV + MediaPipe
