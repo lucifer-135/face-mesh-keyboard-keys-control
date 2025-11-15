@@ -10,5 +10,4 @@ python main.py
 Press 'q' to exit.
 =======
 # face-mesh-keyboard-keys-control
-Control keyboard using nose movement with OpenCV + MediaPipe.
->>>>>>> 2fdc79326f4ce6fea089d073446700696490af6c
+Control keyboard using nose movement with OpenCV + MediaPipe
